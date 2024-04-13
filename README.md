@@ -19,4 +19,4 @@ The challenges were found in the excellent repository: [CollabCodeTech/backend-c
 
 | Language | Company | Stack |     |
 | --- | ------- | ----- | --- |
-| ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) | :brazil: Test Company | Http4s, ember-server, f2s | [Code →](#challenges)
+| ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) | :brazil: AmeDigital | Http4s, ember-server, Doobie, Circe | [Code →](https://github.com/Mth-Ryan/backend-challenges-AmeDigital)
